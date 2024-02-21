@@ -1,0 +1,665 @@
+# Translation of Plugins - Essential Blocks – Page Builder Gutenberg Blocks, Patterns &amp; Templates - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Essential Blocks – Page Builder Gutenberg Blocks, Patterns &amp; Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-09 04:53:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Essential Blocks – Page Builder Gutenberg Blocks, Patterns &amp; Templates - Stable (latest release)\n"
+
+#: blocks/social-share/block.json
+msgctxt "block description"
+msgid "Share your posts & pages instantly on popular social platforms in one click from your website."
+msgstr "Compartilhe seus posts e páginas instantaneamente nas plataformas sociais populares com um clique a partir do seu site."
+
+#: blocks/social-share/block.json
+msgctxt "block title"
+msgid "Social Share"
+msgstr "Compartilhamento social"
+
+#: blocks/openverse/block.json
+msgctxt "block description"
+msgid "Easily search & use royalty free images, stock photos, CC-licensed images from Openverse for your website"
+msgstr "Pesquise facilmente e use imagens livres de direitos autorais, fotos de banco de imagens e imagens licenciadas pela Creative Commons do Openverse para o seu site"
+
+#: blocks/openverse/block.json
+msgctxt "block title"
+msgid "Openverse"
+msgstr "Openverse"
+
+#: includes/blocks-default.php:236 dist/index.js:1
+msgid "Openverse"
+msgstr "Openverse"
+
+#: includes/blocks-default.php:136
+msgid "Social Share"
+msgstr "Compartilhamento social"
+
+#: blocks/nft-gallery/block.json
+msgctxt "block description"
+msgid "Display your NFT items & collections in a stunning gallery view without any coding"
+msgstr "Exiba seus itens e coleções do NFT em uma impressionante visualização de galeria sem qualquer codificação"
+
+#: blocks/nft-gallery/block.json
+msgctxt "block title"
+msgid "NFT Gallery"
+msgstr "Galeria de NFT"
+
+#: includes/class-nft-ajax.php:79 includes/class-nft-ajax.php:148
+#: includes/class-nft-ajax.php:164 includes/class-openverse-ajax.php:64
+#: includes/class-openverse-ajax.php:112 includes/class-openverse-ajax.php:192
+#: includes/class-openverse-ajax.php:242
+msgid "Nonce did not match"
+msgstr "O nonce não corresponde"
+
+#: includes/blocks-default.php:241 dist/index.js:1
+msgid "NFT Gallery"
+msgstr "Galeria de NFT"
+
+#: blocks/popup/block.json
+msgctxt "block description"
+msgid "Showcase your videos, images or other content with popup & trigger actions."
+msgstr "Destaque seus vídeos, imagens ou outro conteúdo com pop-up e ações de gatilho."
+
+#: blocks/popup/block.json
+msgctxt "block title"
+msgid "Popup"
+msgstr "Pop-up"
+
+#: blocks/advanced-navigation/block.json
+msgctxt "block description"
+msgid "Display pages & posts with easy navigation in your website with stunning & organised appearance."
+msgstr "Exiba páginas e posts com navegação fácil em seu site com uma aparência incrível e organizada."
+
+#: blocks/advanced-navigation/block.json
+msgctxt "block title"
+msgid "Advanced Navigation"
+msgstr "Navegação avançada"
+
+#: includes/blocks-default.php:231
+msgid "Popup"
+msgstr "Pop-up"
+
+#: includes/blocks-default.php:201 dist/index.js:1
+msgid "Advanced Navigation"
+msgstr "Navegação avançada"
+
+#: blocks/column/block.json
+msgctxt "block description"
+msgid "A single column within a Row block."
+msgstr "Uma única coluna dentro de um bloco de linha."
+
+#: blocks/post-carousel/block.json
+msgctxt "block description"
+msgid "Showcase your posts & blogs in a stylish way on your website and make it more engaging"
+msgstr "Destaque seus posts e blogs de forma elegante em seu site e torne-o mais envolvente"
+
+#: blocks/post-carousel/block.json
+msgctxt "block title"
+msgid "Post Carousel"
+msgstr "Carrossel de posts"
+
+#: blocks/advanced-video/block.json
+msgctxt "block description"
+msgid "Portray any attractive video content on your website and grow engagement"
+msgstr "Retrate qualquer conteúdo de vídeo atraente em seu site e aumente o engajamento"
+
+#: blocks/advanced-video/block.json
+msgctxt "block title"
+msgid "Advanced Video"
+msgstr "Vídeo avançado"
+
+#: includes/blocks-default.php:226 dist/index.js:1
+msgid "Advanced Video"
+msgstr "Vídeo avançado"
+
+#: includes/blocks-default.php:221
+msgid "Post Carousel"
+msgstr "Carrossel de posts"
+
+#: includes/blocks-default.php:206
+msgid "Woo Product Grid"
+msgstr "Grade de produtos Woo"
+
+#: blocks/woo-product-grid/block.json
+msgctxt "block description"
+msgid "Display WooCommerce products in a stunning, organized layout & help customers with EB Woo Product Grid."
+msgstr "Exiba produtos WooCommerce em um layout deslumbrante e organizado e ajude os clientes com o EB Woo Product Grid."
+
+#: blocks/woo-product-grid/block.json
+msgctxt "block title"
+msgid "Woo Product Grid"
+msgstr "Grade de produtos Woo"
+
+#: includes/class-essential-blocks-patterns.php:56
+msgid "Essential blocks"
+msgstr "Essential Blocks"
+
+#: blocks/woo-product-grid.php:205 dist/index.js:1
+msgid "No product found"
+msgstr "Nenhum produto encontrado"
+
+#: blocks/woo-product-grid.php:109
+msgid "View More"
+msgstr "Ver mais"
+
+#: includes/class-essential-blocks-page-template.php:49
+msgid "Essential Blocks Blank Template"
+msgstr "Modelo em branco do Essential Blocks"
+
+#: includes/class-essential-blocks-page-template.php:48
+msgid "Essential Blocks Fullwidth Template"
+msgstr "Modelo de largura total do Essential Blocks"
+
+#: blocks/wpforms/block.json
+msgctxt "block description"
+msgid "Design stunning WPForms in minutes with plenty of controls & styling options"
+msgstr "Projete formulários do WPForms deslumbrantes em minutos com muitos controles e opções de estilo"
+
+#: blocks/wpforms/block.json
+msgctxt "block title"
+msgid "WPForms"
+msgstr "WPForms"
+
+#: blocks/advanced-image/block.json
+msgctxt "block description"
+msgid "Customise images in Gutenberg to fit your exact needs."
+msgstr "Personalize imagens no Gutenberg para atender às suas necessidades exatas."
+
+#: blocks/advanced-image/block.json
+msgctxt "block title"
+msgid "Advanced Image"
+msgstr "Imagem avançada"
+
+#: includes/class-helpers.php:85
+msgid "Create a Form First"
+msgstr "Crie um formulário primeiro"
+
+#: includes/class-helpers.php:78
+msgid "Select a WPForm"
+msgstr "Selecionar WPForm"
+
+#: includes/blocks-default.php:216 dist/index.js:1
+msgid "WPForms"
+msgstr "WPForms"
+
+#: includes/blocks-default.php:211 dist/index.js:1
+msgid "Advanced Image"
+msgstr "Imagem avançada"
+
+#: blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Botão"
+
+#: blocks/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr "Aba"
+
+#: blocks/fluent-forms/block.json
+msgctxt "block description"
+msgid "Design your Forms container, fields and choose preferred form layout to style Fluent Forms"
+msgstr "Projete o contêiner de seus formulários, campos e escolha o layout de formulário preferido para estilizar o Fluent Forms"
+
+#: blocks/fluent-forms/block.json
+msgctxt "block title"
+msgid "Fluent Forms"
+msgstr "Fluent Forms"
+
+#: blocks/advanced-tabs/block.json
+msgctxt "block description"
+msgid "Display nested tabs to display key information on an instance in an interactive manner."
+msgstr "Exiba abas aninhadas para apresentar informações importantes em uma instância de maneira interativa."
+
+#: blocks/advanced-tabs/block.json
+msgctxt "block title"
+msgid "Advanced Tabs"
+msgstr "Abas avançadas"
+
+#: includes/blocks-default.php:196 dist/index.js:1
+msgid "Advanced Tabs"
+msgstr "Abas avançadas"
+
+#: includes/blocks-default.php:191
+msgid "Fluent Forms"
+msgstr "Fluent Forms"
+
+#: includes/class-helpers.php:38
+msgid "Select a form"
+msgstr "Selecione um formulário"
+
+#: blocks/post-grid.php:197
+msgid ">"
+msgstr ">"
+
+#: blocks/post-grid.php:180
+msgid "<"
+msgstr "<"
+
+#: blocks/wrapper/block.json
+msgctxt "block description"
+msgid "This is a wrapper block for other blocks within it."
+msgstr "Este é um bloco de invólucro para outros blocos dentro dele."
+
+#: blocks/wrapper/block.json
+msgctxt "block title"
+msgid "Wrapper"
+msgstr "Invólucro"
+
+#: blocks/toggle-content/block.json
+msgctxt "block description"
+msgid "Toggle Contents or blocks with a beautiful switcher."
+msgstr "Alterne conteúdos ou blocos com um comutador bonito."
+
+#: blocks/testimonial/block.json
+msgctxt "block description"
+msgid "Display testimonials & gain instant credibility"
+msgstr "Exiba depoimentos e ganhe credibilidade instantânea"
+
+#: blocks/team-member/block.json
+msgctxt "block description"
+msgid "Present your team members beautifully & gain instant credibility"
+msgstr "Apresente seus membros da equipe de forma atraente e ganhe credibilidade instantânea"
+
+#: blocks/table-of-contents/block.json
+msgctxt "block description"
+msgid "Insert Table of Contents on your posts/pages and enhance user experience on your WordPress website"
+msgstr "Insira uma tabela de conteúdos em seus posts/páginas e melhore a experiência do usuário em seu site WordPress"
+
+#: blocks/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table Of Contents"
+msgstr "Tabela de conteúdos (Índice)"
+
+#: blocks/social/block.json
+msgctxt "block description"
+msgid "Add icon links to your social media profiles and grow your audience with animated social icons"
+msgstr "Adicione links de ícones para seus perfis de mídia social e aumente seu público-alvo com ícones sociais animados"
+
+#: blocks/slider/block.json
+msgctxt "block description"
+msgid "Display multiple images and content in beautiful slider & reduce page scroll"
+msgstr "Exiba várias imagens e conteúdo em um controle deslizante bonito e reduza a rolagem da página"
+
+#: blocks/row/block.json
+msgctxt "block description"
+msgid "Create complex Row layouts with plenty of styling controls & responsive options"
+msgstr "Crie layouts complexos de linhas com muitos controles de estilo e opções de resposta"
+
+#: blocks/row/block.json
+msgctxt "block title"
+msgid "Row"
+msgstr "Linha"
+
+#: blocks/post-grid/block.json
+msgctxt "block description"
+msgid "Create a stunning and interactive visualization for your blogs in a grid layout"
+msgstr "Crie uma visualização impressionante e interativa para seus blogs em um layout de grade"
+
+#: blocks/post-grid/block.json
+msgctxt "block title"
+msgid "Post Grid"
+msgstr "Grade de posts"
+
+#: blocks/parallax-slider/block.json
+msgctxt "block description"
+msgid "Create a captivating visual experience & impress your audience"
+msgstr "Crie uma experiência visual cativante e impressione seu público"
+
+#: blocks/number-counter/block.json
+msgctxt "block description"
+msgid "Put spotlight in important data using Counter block for Gutenberg. Customize the designs by adding proper Animation effects with flexibility and many more!"
+msgstr "Destaque dados importantes usando o bloco de contador para Gutenberg. Personalize os designs adicionando efeitos de animação adequados com flexibilidade e muito mais!"
+
+#: blocks/notice/block.json
+msgctxt "block description"
+msgid "Put spotlight on news, announcements & let the visitors find it easily"
+msgstr "Destaque notícias e anúncios e permita que os visitantes os encontrem facilmente"
+
+#: blocks/interactive-promo/block.json
+msgctxt "block description"
+msgid "EB Interactive Promo lets you decorate your website outlook with its amazing Promo effects"
+msgstr "O EB Interactive Promo permite que você decore a aparência do seu site com seus incríveis efeitos promocionais"
+
+#: blocks/instagram-feed/block.json
+msgctxt "block description"
+msgid "Showcase instagram posts for your web visitors."
+msgstr "Destaque as publicações do Instagram para os visitantes do seu site."
+
+#: blocks/infobox/block.json
+msgctxt "block description"
+msgid "Deliver your content beautifully to grab attention with an animated Infobox block."
+msgstr "Entregue seu conteúdo de forma atraente para chamar a atenção com um bloco de caixa de informações animado."
+
+#: blocks/image-gallery/block.json
+msgctxt "block description"
+msgid "Impress your audience with high-resolution images"
+msgstr "Impressione seu público com imagens de alta resolução"
+
+#: blocks/image-comparison/block.json
+msgctxt "block description"
+msgid "Let the visitors compare images & make your website interactive."
+msgstr "Permita que os visitantes comparem imagens e tornem seu site interativo."
+
+#: blocks/flipbox/block.json
+msgctxt "block description"
+msgid "Deliver your content beautifully to grab site visitor's attention."
+msgstr "Apresente seu conteúdo de forma atraente para chamar a atenção dos visitantes do site."
+
+#: blocks/feature-list/block.json
+msgctxt "block description"
+msgid "Make your website interactive with feature list."
+msgstr "Torne seu site interativo com uma lista de recursos."
+
+#: blocks/feature-list/block.json
+msgctxt "block title"
+msgid "Feature List"
+msgstr "Lista de recursos"
+
+#: blocks/dual-button/block.json
+msgctxt "block description"
+msgid "Create two buttons to be stacked together"
+msgstr "Crie dois botões para serem empilhados juntos"
+
+#: blocks/countdown/block.json
+msgctxt "block description"
+msgid "Highlight upcoming events with countdown timer"
+msgstr "Destaque eventos futuros com um cronômetro de contagem regressiva"
+
+#: blocks/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "Coluna"
+
+#: blocks/button/block.json
+msgctxt "block description"
+msgid "Create a stunning button through the button block. You can make it look outstanding by adding exclusive button styles & effects and add links to redirect your visitors to a specific page."
+msgstr "Crie um botão impressionante usando o bloco de botão. Você pode torná-lo destacado adicionando estilos e efeitos exclusivos de botão e adicionar links para redirecionar seus visitantes para uma página específica."
+
+#: blocks/advanced-heading/block.json
+msgctxt "block description"
+msgid "Create advanced heading with title, subtitle and separator controls"
+msgstr "Crie títulos avançados com controles de título, subtítulo e separador"
+
+#: blocks/accordion/block.json
+msgctxt "block description"
+msgid "Display your FAQs & improve user experience with Accordion/Toggle block"
+msgstr "Exiba suas perguntas frequentes e melhore a experiência do usuário com o bloco de sanfona/alternância"
+
+#: includes/blocks-default.php:176
+msgid "Feature List"
+msgstr "Lista de recursos"
+
+#: includes/blocks-default.php:186 dist/index.js:1
+msgid "Table Of Contents"
+msgstr "Tabela de conteúdos"
+
+#: includes/blocks-default.php:181
+msgid "Row"
+msgstr "Linha"
+
+#: includes/blocks-default.php:131 dist/index.js:1
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: includes/blocks-default.php:171
+msgid "Post Grid"
+msgstr "Grade de posts"
+
+#: blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Sanfona"
+
+#: blocks/social/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: blocks/call-to-action/block.json
+msgctxt "block description"
+msgid "Call to action lets you create an interactive CTA for the website to draw visitor's attention on the spot."
+msgstr "A chamada para ação permite que você crie uma CTA interativa para o site para chamar a atenção do visitante imediatamente."
+
+#: blocks/progress-bar/block.json
+msgctxt "block description"
+msgid "Make your website interactive with stunning progress bars."
+msgstr "Torne seu site interativo com barras de progresso impressionantes."
+
+#: blocks/advanced-heading/block.json
+msgctxt "block title"
+msgid "Advanced Heading"
+msgstr "Título avançado"
+
+#: includes/blocks-default.php:76 dist/index.js:1
+msgid "Advanced Heading"
+msgstr "Título avançado"
+
+#: blocks/pricing-table/block.json
+msgctxt "block description"
+msgid "The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers."
+msgstr "O bloco de tabela de preços permitirá que você crie uma tabela de preços de produtos eficaz com um estilo perfeito para obter mais vendas de seus possíveis compradores."
+
+#: blocks/typing-text/block.json
+msgctxt "block title"
+msgid "Typing Text"
+msgstr "Digitação de texto"
+
+#: blocks/typing-text/block.json
+msgctxt "block description"
+msgid "Make your website interactive with typing text animation."
+msgstr "Torne seu site interativo com animação de digitação de texto."
+
+#: blocks/toggle-content/block.json
+msgctxt "block title"
+msgid "Toggle Content"
+msgstr "Alternância de conteúdo"
+
+#: blocks/testimonial/block.json
+msgctxt "block title"
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: blocks/team-member/block.json
+msgctxt "block title"
+msgid "Team Members"
+msgstr "Membros da equipe"
+
+#: blocks/slider/block.json
+msgctxt "block title"
+msgid "Slider"
+msgstr "Controle deslizante (slider)"
+
+#: blocks/progress-bar/block.json
+msgctxt "block title"
+msgid "Progress Bar"
+msgstr "Barra de progresso"
+
+#: blocks/pricing-table/block.json
+msgctxt "block title"
+msgid "Pricing Table"
+msgstr "Tabela de preços"
+
+#: blocks/parallax-slider/block.json
+msgctxt "block title"
+msgid "Parallax Slider"
+msgstr "Controle deslizante Parallax"
+
+#: blocks/number-counter/block.json
+msgctxt "block title"
+msgid "Number Counter"
+msgstr "Contador numérico"
+
+#: blocks/notice/block.json
+msgctxt "block title"
+msgid "Notice"
+msgstr "Aviso"
+
+#: blocks/interactive-promo/block.json
+msgctxt "block title"
+msgid "Interactive Promo"
+msgstr "Promoção interativa"
+
+#: blocks/instagram-feed/block.json
+msgctxt "block title"
+msgid "Instagram Feed"
+msgstr "Feed do Instagram"
+
+#: blocks/infobox/block.json
+msgctxt "block title"
+msgid "Infobox"
+msgstr "Caixa de informação"
+
+#: blocks/image-gallery/block.json
+msgctxt "block title"
+msgid "Image Gallery"
+msgstr "Galeria de Imagens"
+
+#: blocks/image-comparison/block.json
+msgctxt "block title"
+msgid "Image Comparison"
+msgstr "Comparação de imagens"
+
+#: blocks/flipbox/block.json
+msgctxt "block title"
+msgid "Flipbox"
+msgstr "Caixa giratória (flipbox)"
+
+#: blocks/dual-button/block.json
+msgctxt "block title"
+msgid "Dual Button"
+msgstr "Botão duplo"
+
+#: blocks/countdown/block.json
+msgctxt "block title"
+msgid "Countdown"
+msgstr "Contagem regressiva"
+
+#: blocks/call-to-action/block.json
+msgctxt "block title"
+msgid "Call To Action"
+msgstr "Chamada para ação (CTA)"
+
+#: blocks/accordion-item/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr "Item de sanfona"
+
+#: includes/menu-page-display.php:92
+msgid "<a href=\"%s\" target=\"_blank\">Explore Demos</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Explore as demonstrações</a>"
+
+#: includes/blocks-default.php:166
+msgid "Number Counter"
+msgstr "Contador numérico"
+
+#: includes/blocks-default.php:161
+msgid "Wrapper"
+msgstr "Invólucro"
+
+#: includes/blocks-default.php:156 dist/index.js:1
+msgid "Typing Text"
+msgstr "Digitação de texto"
+
+#: includes/blocks-default.php:151
+msgid "Toggle Content"
+msgstr "Alternância de conteúdo"
+
+#: includes/blocks-default.php:146
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: includes/blocks-default.php:141
+msgid "Team Member"
+msgstr "Membro da equipe"
+
+#: includes/blocks-default.php:126 dist/index.js:1
+msgid "Slider"
+msgstr "Controle deslizante (slider)"
+
+#: includes/blocks-default.php:121 dist/index.js:1
+msgid "Progress Bar"
+msgstr "Barra de progresso"
+
+#: includes/blocks-default.php:116
+msgid "Pricing Table"
+msgstr "Tabela de preços"
+
+#: includes/blocks-default.php:111
+msgid "Parallax Slider"
+msgstr "Controle deslizante Parallax"
+
+#: includes/blocks-default.php:106
+msgid "Notice"
+msgstr "Aviso"
+
+#: includes/blocks-default.php:101
+msgid "Interactive Promo"
+msgstr "Promoção interativa"
+
+#: includes/blocks-default.php:96 dist/index.js:1
+msgid "Instagram Feed"
+msgstr "Feed do Instagram"
+
+#: includes/blocks-default.php:91
+msgid "Infobox"
+msgstr "Caixa de informação"
+
+#: includes/blocks-default.php:86
+msgid "Image Gallery"
+msgstr "Galeria de imagens"
+
+#: includes/blocks-default.php:81
+msgid "Image Comparison"
+msgstr "Comparação de imagens"
+
+#: includes/blocks-default.php:71
+msgid "Flipbox"
+msgstr "Caixa giratória (flipbox)"
+
+#: includes/blocks-default.php:66
+msgid "Dual Button"
+msgstr "Botão duplo"
+
+#: includes/blocks-default.php:61
+msgid "Countdown"
+msgstr "Contagem regressiva"
+
+#: includes/blocks-default.php:56
+msgid "Call To Action"
+msgstr "Chamada para ação (CTA)"
+
+#: includes/blocks-default.php:51 dist/index.js:1
+msgid "Button"
+msgstr "Botão"
+
+#: includes/blocks-default.php:46 dist/index.js:1
+msgid "Accordion"
+msgstr "Sanfona"
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.com"
+msgstr "https://wpdeveloper.com"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#. Description of the plugin
+msgid "The Ultimate Blocks Library for WordPress Gutenberg editor."
+msgstr "A biblioteca de blocos definitiva para o editor Gutenberg do WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://essential-blocks.com"
+msgstr "https://essential-blocks.com"
+
+#. Plugin Name of the plugin
+#: includes/category.php:7 includes/class-essential-admin.php:37
+#: includes/class-essential-admin.php:38
+msgid "Essential Blocks"
+msgstr "Essential Blocks"
